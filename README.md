@@ -1,2 +1,2 @@
-# sql-mini-analysis
-SQL mini basic analysis using Big-query public data set.
+# mini-project-analysis
+mini basic analysis using SQL-Python-power-bi
